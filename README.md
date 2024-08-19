@@ -35,4 +35,69 @@ sources in the Grid. As is the nature of wind projects (renewable energy), no fo
 power generation in the project activity. The electricity produced by the project is directly contributing to
 climate change mitigation by reducing the anthropogenic emissions of greenhouse gases (GHGs, i.e., CO2)
 into the atmosphere by displacing an equivalent amount of power at grid. 
+______________
+Issue Date: 19/08/2024
+
+Qty: 44801 CoUs
+____________________
+Serial Number: 0001-000001-000429-UCR-CoU-IN-394-08102013-31122013
+
+Vintage Year: 2013
+
+Quantity: 429
+____________
+Serial Number: 0001-000430-003738-UCR-CoU-IN-394-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 3309
+_____________
+Serial Number: 0001-003739-008727-UCR-CoU-IN-394-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 4989
+_____________
+Serial Number: 0001-008728-015790-UCR-CoU-IN-394-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 7063
+_______________
+Serial Number: 0001-015791-022901-UCR-CoU-IN-394-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 7111
+_______________
+Serial Number: 0001-022902-028965-UCR-CoU-IN-394-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 6064
+______________
+Serial Number: 0001-028966-035086-UCR-CoU-IN-394-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 6121
+______________
+Serial Number: 0001-035087-039281-UCR-CoU-IN-394-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 4195
+_____________
+Serial Number: 0001-039282-041901-UCR-CoU-IN-394-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 2620
+____________
+Serial Number: 0001-041902-044801-UCR-CoU-IN-394-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 2900
+___________
 
